@@ -1,4 +1,13 @@
+<<<<<<< HEAD
 # IDE
 /.idea/
 
 /vendor/
+=======
+assets/*
+!assets/.gitignore
+protected/runtime/*
+!protected/runtime/.gitignore
+protected/data/*.db
+themes/classic/views/
+>>>>>>> 9d879ebf45096fb032065680df8279c549988359
