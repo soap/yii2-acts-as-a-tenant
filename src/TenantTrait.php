@@ -1,9 +1,9 @@
 <?php
 
-namespace CrazyStudio\ActsAsTenant;
+namespace soap\ActsAsTenant;
 
 
-use CrazyStudio\ActsAsTenant\exceptions\TenantNotFoundException;
+use soap\ActsAsTenant\exceptions\TenantNotFoundException;
 use Yii;
 
 trait TenantTrait

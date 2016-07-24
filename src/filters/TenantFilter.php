@@ -1,6 +1,6 @@
 <?php
 
-namespace CrazyStudio\ActsAsTenant\filters;
+namespace soap\ActsAsTenant\filters;
 
 
 use Yii;

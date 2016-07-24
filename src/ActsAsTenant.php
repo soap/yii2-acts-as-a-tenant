@@ -1,6 +1,6 @@
 <?php
 
-namespace CrazyStudio\ActsAsTenant;
+namespace soap\ActsAsTenant;
 
 
 use yii\base\Component;

@@ -1,9 +1,9 @@
 <?php
 
-namespace CrazyStudio\ActsAsTenant;
+namespace soap\ActsAsTenant;
 
 
-use CrazyStudio\ActsAsTenant\exceptions\TenantCanNotBeChangedException;
+use soap\ActsAsTenant\exceptions\TenantCanNotBeChangedException;
 use Yii;
 
 trait ActsAsTenantTrait

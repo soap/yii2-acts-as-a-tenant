@@ -1,6 +1,6 @@
 <?php
 
-namespace CrazyStudio\ActsAsTenant\behaviors;
+namespace soap\ActsAsTenant\behaviors;
 
 
 use Yii;

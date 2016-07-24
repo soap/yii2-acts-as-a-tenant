@@ -1,6 +1,6 @@
 <?php
 
-namespace CrazyStudio\ActsAsTenant\exceptions;
+namespace soap\ActsAsTenant\exceptions;
 
 
 class TenantNotFoundException extends \Exception
