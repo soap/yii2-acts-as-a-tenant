@@ -1,0 +1,29 @@
+{
+    "name": "soap/yii2-acts-as-tenant",
+    "type": "yii2-extension",
+    "license": "BSD3-clause",
+    "authors": [
+        {
+            "name": "Prasit Gebsaap",
+            "email": "prasit.gebsaap@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">= 5.4.0",
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "soap\\ActsAsTenant": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "soap\\fronttplasset\\": "packages/soap/acts-as-a-tenant/src"
+        },
+        "classmap": [
+        ]
+    },
+    "minimum-stability": "stable"
+
+}
